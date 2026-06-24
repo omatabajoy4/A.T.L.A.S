@@ -137,4 +137,3 @@ A.T.L.A.S. V1 is considered successful when it can:
 * Run inside Docker.
 * Expose APIs through FastAPI.
 * Be prepared for mobile and Alexa integration.
-Initial Project Charter
