@@ -46,4 +46,3 @@ Docker on Linux VPS
 
 V3:
 Hybrid Local + Cloud
-Initial Architecture
